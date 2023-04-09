@@ -1,3 +1,5 @@
+# This fork `cuda-M40` branch that is the secret *sauce* to have the Tesla M40 working!!!
+
 # GPTQ-for-LLaMa
 4 bits quantization of [LLaMa](https://arxiv.org/abs/2302.13971) using [GPTQ](https://arxiv.org/abs/2210.17323)
 
